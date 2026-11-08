@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
+  "versionCode": 8,
+  "versionName": "1.7",
   "apk": "Mokoko.apk",
-  "notes": "Sitelerin tamamı liste sayfalarından taranıyor (kaldığı yerden devam eder); bitince her gün sadece yenilere bakılır. Aynı film tek kart, bir sitede açılmazsa diğerine geçer. CAM/TS kayıtları alınmaz. Dizi bölümleri ve film konusu açınca yüklenir."
+  "notes": "Donma ve kapanma düzeltildi: büyük liste arka planda yükleniyor, tarama sırasında ekran daha seyrek yenileniyor. Tarama kaldığı yerden devam ediyor."
 }
