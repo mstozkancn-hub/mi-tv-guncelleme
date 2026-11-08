@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
+  "versionCode": 11,
+  "versionName": "2.0",
   "apk": "Mokoko.apk",
-  "notes": "Arama kutusunda yazı görünüyor. Kaynak düğmesi kaynak listesini açıyor, seçiyorsun. Video bulunamazsa sormadan daha uzun arıyor ve diğer siteyi deniyor. Hazır olmayan filmler artık hemen aranıyor."
+  "notes": "Siteler artık menünün en altında 'Ayarlar' olarak; üstüne gelince açılmıyor, OK ile açılıyor."
 }
