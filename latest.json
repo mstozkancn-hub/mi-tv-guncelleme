@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
+  "versionCode": 7,
+  "versionName": "1.6",
   "apk": "Mokoko.apk",
-  "notes": "Yeni oynatıcı. Favoriler (kalp). Filmler ve Dizilerde arama ve Yerli/Yabancı. Hazır olanlar kalıcı; her gün yenilere bakılır, 2 günde bir tam tarama. Şeffaf logo."
+  "notes": "Sitelerin tamamı liste sayfalarından taranıyor (kaldığı yerden devam eder); bitince her gün sadece yenilere bakılır. Aynı film tek kart, bir sitede açılmazsa diğerine geçer. CAM/TS kayıtları alınmaz. Dizi bölümleri ve film konusu açınca yüklenir."
 }
