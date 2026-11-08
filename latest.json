@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
+  "versionCode": 9,
+  "versionName": "1.8",
   "apk": "Mokoko.apk",
-  "notes": "Donma ve kapanma düzeltildi: büyük liste arka planda yükleniyor, tarama sırasında ekran daha seyrek yenileniyor. Tarama kaldığı yerden devam ediyor."
+  "notes": "Donma/kapanma düzeltildi, yanlış 'yeni' sayısı düzeltildi, afişler sitenin adresiyle isteniyor."
 }
