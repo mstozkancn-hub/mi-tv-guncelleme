@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
+  "versionCode": 10,
+  "versionName": "1.9",
   "apk": "Mokoko.apk",
-  "notes": "Donma/kapanma düzeltildi, yanlış 'yeni' sayısı düzeltildi, afişler sitenin adresiyle isteniyor."
+  "notes": "Arama kutusunda yazı görünüyor. Kaynak düğmesi kaynak listesini açıyor, seçiyorsun. Video bulunamazsa sormadan daha uzun arıyor ve diğer siteyi deniyor. Hazır olmayan filmler artık hemen aranıyor."
 }
