@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "2.0",
+  "versionCode": 12,
+  "versionName": "2.1",
   "apk": "Mokoko.apk",
-  "notes": "Siteler artık menünün en altında 'Ayarlar' olarak; üstüne gelince açılmıyor, OK ile açılıyor."
+  "notes": "Açılışta 'Yükleniyor…'da takılma düzeltildi."
 }
