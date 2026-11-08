@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5",
   "apk": "Mokoko.apk",
-  "notes": "Yeni MO logosu. Siteler artık kendiliğinden taranıyor: ilk açılışta hemen, sonra günde bir kez. Hazır olmayan videolar sırayla hazırlanmaya devam ediyor."
+  "notes": "Yeni oynatıcı. Favoriler (kalp). Filmler ve Dizilerde arama ve Yerli/Yabancı. Hazır olanlar kalıcı; her gün yenilere bakılır, 2 günde bir tam tarama. Şeffaf logo."
 }
