@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "2.4",
+  "versionCode": 16,
+  "versionName": "2.5",
   "apk": "Mokoko.apk",
-  "notes": "Dizilerde gereksiz Yerli/Yabancı düğmesi gizlendi (sitelerde yerli dizi yok)."
+  "notes": "Mokoko maskotu: video aranırken Mokoko arar, bulunca dublajı getirip önüne koyar. Yeni logo."
 }
