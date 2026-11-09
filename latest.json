@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "2.5",
+  "versionCode": 17,
+  "versionName": "2.6",
   "apk": "Mokoko.apk",
-  "notes": "Mokoko maskotu: video aranırken Mokoko arar, bulunca dublajı getirip önüne koyar. Yeni logo."
+  "notes": "Açılışta Mokoko animasyonu."
 }
