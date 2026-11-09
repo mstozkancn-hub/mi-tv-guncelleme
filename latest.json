@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "2.1",
+  "versionCode": 13,
+  "versionName": "2.2",
   "apk": "Mokoko.apk",
-  "notes": "Açılışta 'Yükleniyor…'da takılma düzeltildi."
+  "notes": "Mi Box'ta donma/kapanma: tüm ağır hesaplar arka plana alındı, ekran artık beklemiyor."
 }
